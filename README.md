@@ -1,7 +1,7 @@
-# NodeJS Server Template
-Template para servidor de NodeJS.
+# NodeJS and ReactJS Template App
+Template para aplicacion de NodeJS + ReactJS.
 
-## Cosas que hacer al aplicarlo en un nuevo servidor.
+## Cosas que hacer al aplicarlo a una nueva aplicacion.
 
 `change README`
 `change name in package.json`
